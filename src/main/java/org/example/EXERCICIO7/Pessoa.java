@@ -1,8 +1,8 @@
 package org.example.EXERCICIO7;
 
 public class Pessoa {
-    private String nome;
-    private int idade;
+    public String nome;
+    public int idade;
 
     //criando um construtor
     public Pessoa(String nome, int idade) {
